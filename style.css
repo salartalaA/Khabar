@@ -1,0 +1,30 @@
+/*Tag Name selector*/
+		
+		body {
+			background-color: white
+		}
+
+		/*Class name*/
+		.textRed {
+			color: red;
+			border: 4px solid purple;
+			font-family: Ink Free
+		}
+		.textBlue {
+			color: blue;
+		}
+                .textGreen {
+                        color: green;
+                }
+	        .textFont {
+	    	font-family: tahoma
+	        }
+	        .gameContainer{
+	        	width: 500px;
+	        	height: 500px;
+	        	border: 2px solid black
+	        }
+		/*identifler*/
+		#bioTitle {
+			color: yellow;
+		}
